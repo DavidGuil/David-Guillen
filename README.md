@@ -1,2 +1,3 @@
 # hello-word 
-![alumnos](https://user-images.githubusercontent.com/117844514/200879177-52d5d71a-dbeb-4ce8-b926-943c00bb04ed.png)
+Soy David Guillen
+![20210917_101146](https://user-images.githubusercontent.com/117844514/200879899-5ec12332-91eb-4ad4-bccf-9a1d53243b14.jpg)
